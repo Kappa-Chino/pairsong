@@ -29,3 +29,4 @@ npm run build
 公開パスは`/futari_ne/`に設定されています。
 # pairsong
 # pairsong
+# pairsong
