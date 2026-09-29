@@ -99,7 +99,6 @@ button {
   transform: translateY(-6px);
   background-position: center;
   background-repeat: no-repeat;
-  mix-blend-mode: multiply;
 }
 
 .nav-image-home { background-size: auto 130px; }
